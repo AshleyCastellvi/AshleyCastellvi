@@ -86,13 +86,9 @@
   <img src="https://img.shields.io/badge/Windows%20Server-FFD600?style=for-the-badge&logo=windows&logoColor=black">
 </p>
 
----
-
-### 📊 Dominio de Skills (¡Gráfica visual!)
-
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Java','JavaScript','C#','HTML/CSS','Unity/Unreal','React/Next.js','Express/MongoDB','C++/Swift','AWS','Linux/Win Server','Edición de vídeo'],datasets:[{label:'Dominio',data:[90,80,70,100,80,70,60,40,50,70,40],backgroundColor:'rgba(255,214,0,0.2)',borderColor:'rgba(0,0,0,1)'}]},options:{scale:{angleLines:{color:'#FFD600'},pointLabels:{color:'#FFD600'}},plugins:{legend:{display:false}}}}" width="600" alt="Radar Chart Skills"/>
-</p>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22%22%2C%22Java%22%2C%22JavaScript%22%2C%22C%23%22%2C%22HTML%2FCSS%22%2C%22Unity%2FUnreal%22%2C%22React%2FNext.js%22%2C%22Express%2FMongoDB%22%2C%22C%2B%2B%2FSwift%22%2C%22AWS%22%2C%22Linux%2FWin%20Server%22%2C%22Edici%C3%B3n%20de%20v%C3%ADdeo%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Dominio%22%2C%22data%22%3A%5B0%2C90%2C80%2C70%2C100%2C80%2C70%2C60%2C40%2C50%2C70%2C40%5D%2C%22backgroundColor%22%3A%22rgba(255%2C214%2C0%2C0.9)%22%7D%5D%7D%
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','JavaScript','C#','HTML/CSS','Unity/Unreal','React/Next.js','Express/MongoDB','C++/Swift','AWS','Linux/Win Server','Edición de vídeo'],datasets:[{label:'Dominio',data:[90,80,70,100,80,70,60,40,50,70,40],backgroundColor:'rgba(255,214,0,0.9)'}]},options:{scales:{x:{ticks:{color:'black'}
+
+
+
