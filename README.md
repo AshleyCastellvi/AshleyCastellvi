@@ -1,6 +1,6 @@
 <!-- ===== Banner estilo capsule-render ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,100:000000&height=220&section=header&text=Ashley%20Cast%20Boix&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist%20%7C%20Videojuegos%20%7C%20Sistemas%20%7C%20Redes&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,100:000000&height=220&section=header&text=Ashley%20Castellví%20Boix&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist%20%7C%20Videojuegos%20%7C%20Sistemas%20%7C%20Redes&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
