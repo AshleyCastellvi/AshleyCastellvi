@@ -89,6 +89,31 @@
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22%22%2C%22Java%22%2C%22JavaScript%22%2C%22C%23%22%2C%22HTML%2FCSS%22%2C%22Unity%2FUnreal%22%2C%22React%2FNext.js%22%2C%22Express%2FMongoDB%22%2C%22C%2B%2B%2FSwift%22%2C%22AWS%22%2C%22Linux%2FWin%20Server%22%2C%22Edici%C3%B3n%20de%20v%C3%ADdeo%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Dominio%22%2C%22data%22%3A%5B0%2C90%2C80%2C70%2C100%2C80%2C70%2C60%2C40%2C50%2C70%2C40%5D%2C%22backgroundColor%22%3A%22rgba(255%2C214%2C0%2C0.9)%22%7D%5D%7D%
 
+<!-- ===== Proyectos Destacados ===== -->
+<h2 align="center">🚩 PROYECTOS DESTACADOS 🚩</h2>
 
+<p align="center">
+  <a href="https://github.com/AshleyCastellvi/PaulJack_-Blackjack_game-" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20en%20GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</p>
+<p align="center">
+  <b>🃏 PaulJack - Blackjack Game</b><br>
+  Videojuego de Blackjack en Unity con lógica de apuestas, interfaz intuitiva y jugabilidad fluida.<br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshleyCastellvi&repo=PaulJack_-Blackjack_game-&theme=tokyonight&border_color=FFD600">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/AshleyCastellvi/French_Invaders_-Space_Invaders_Reinvention-" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20en%20GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</p>
+<p align="center">
+  <b>👾 French Invaders - Space Invaders Reinvention</b><br>
+  Versión reinventada de Space Invaders en Unity, con mecánicas originales, enemigos únicos y power-ups.<br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshleyCastellvi&repo=French_Invaders_-Space_Invaders_Reinvention-&theme=tokyonight&border_color=FFD600">
+</p>
 
 
